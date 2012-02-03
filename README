@@ -1,0 +1,17 @@
+The app allows you to change the color of your system's LEDs (the power light) and also keep it changed on the XMB or while playing games/homebrews. 
+This is NOT permanent; the first time that you turn off your PS3, the led will go back to normal
+
+This version does NOT need any kind of external drive. all you need is a JoyPad; just it.
+
+Now the app is Lighter (from ~1.2 Mb to ~145Kb), Faster, for all TVs (HD/SD) and Easier to use.
+
+CHANGELOG:
+
+initial release (1.0):
+* it uses another app font.
+
+1.1:
+* corrected few errors, added not found device, added correct font path
+
+2.0
+* Made some awsome updates, now it uses directly RSX.
